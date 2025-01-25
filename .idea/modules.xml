@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring-framework-challenge-foro-hub.iml" filepath="$PROJECT_DIR$/.idea/spring-framework-challenge-foro-hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ForoHub-main.iml" filepath="$PROJECT_DIR$/.idea/ForoHub-main.iml" />
     </modules>
   </component>
 </project>
